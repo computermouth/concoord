@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## set inkscape preferences:
+##  input/output > svg output > path string format > absolute
+
 for ARG in "$@"
 do
 
